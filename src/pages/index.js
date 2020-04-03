@@ -21,8 +21,8 @@ const IndexPage = () => (
         />
         <h3 id={css.introText}>
           We know the most important question is about toilet roll. But what
-          about the next most important thing to consider? Beer! Change the
-          sliders below to see how you'll fare.
+          about the next thing to consider? Beer! Change the sliders below to
+          see how you'll fare.
         </h3>
       </div>
       <Sliders />

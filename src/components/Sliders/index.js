@@ -33,11 +33,11 @@ function Sliders() {
   return (
     <div id={css.app}>
       <h2 id={css.resultsDisplay}>
-        You will last{" "}
+        You have enough beer for{" "}
         <span id={css.resultsNumber}>
           {result} {result > 1 ? "days" : "day"}
-        </span>{" "}
-        with enough beer to see you through!
+        </span>
+        !
       </h2>
       <p>
         You have {beers} {beers > 1 ? "beers" : "beer"} in the house.
