@@ -1,12 +1,17 @@
+# Quarantine Beer Calculator
+
+Inspired by the toilet paper calculator that went viral, we coded this, our first project in Gatsby, as a team during a one-hour hackathon on 4 April 2020 as part of the School of Code bootcamp.
+
+## Contributors:
+
+- Liz Kaufman
+- Helen Kent
+- Mark Gilligan
+- Sam Webber
+
+## _README notes from Gatsby:_
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
