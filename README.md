@@ -9,7 +9,7 @@ Inspired by the toilet paper calculator that went viral, we coded this, our firs
 - Mark Gilligan
 - Sam Webber
 
-## _README notes from Gatsby:_
+## _Automatic README notes generated via Gatsby:_
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
