@@ -34,10 +34,11 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <br />
+        <br />
+        <footer style={{ textAlign: "center", fontSize: "0.8em" }}>
+          © {new Date().getFullYear()}; built by Liz Kaufman, Helen Kent, Sam
+          "Scissors" Webber, and Mark "Captain 'String'" Gilligan
         </footer>
       </div>
     </>
