@@ -38,8 +38,6 @@ function Sliders() {
           {result} {result > 1 ? "days" : "day"}
         </span>{" "}
         with enough beer to see you through!
-        <br />
-        After that though, things might get scary...
       </h2>
       <p>
         You have {beers} {beers > 1 ? "beers" : "beer"} in the house.
