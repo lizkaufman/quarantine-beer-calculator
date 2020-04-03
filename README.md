@@ -1,6 +1,6 @@
 # Quarantine Beer Calculator
 
-Inspired by the toilet paper calculator that went viral, we coded this, our first project in Gatsby, as a team during a one-hour hackathon on 4 April 2020 as part of the School of Code bootcamp.
+Inspired by the toilet paper calculator that went viral, we coded this, our first project in Gatsby, as a team during a one-hour hackathon on 3 April 2020 as part of the School of Code bootcamp.
 
 ## Contributors:
 
