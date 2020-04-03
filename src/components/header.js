@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
       }}
     >
       <h1 style={{ margin: 0, color: "white", textAlign: "center" }}>
-        🍺 Quarantine Beer Calculator 🍺
+        🍺 Beer Calculator 🍺
       </h1>
     </div>
   </header>
