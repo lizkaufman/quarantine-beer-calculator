@@ -9,6 +9,10 @@ Inspired by the toilet paper calculator that went viral, we coded this, our firs
 - Mark Gilligan
 - Sam Webber
 
+<br/>
+<br/>
+<br/>
+
 ## _Automatic README notes generated via Gatsby:_
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
